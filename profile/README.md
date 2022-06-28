@@ -14,4 +14,4 @@
 # Hi, everyone.
 ### This is me
 ### Glad to know TW~
-![Image text](https://)
+![Image text](https://github.com/gtb-2022-pan-yijia/.github/blob/e33712d6788dc8b0f0dad0cb3f58d22ebe22afbc/assets/pic.png)
